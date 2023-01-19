@@ -9,7 +9,7 @@
  ⛸️ &nbsp;Люблю кататься на коньках.\
  🎶 &nbsp;При этом всегда слушаю музыку под настроение, от электроники до классики.
 
-<img alt="Night Coding" width="300px" src="https://static.wixstatic.com/media/72f4a2_3f61545246c94517960fd62361471611~mv2.gif" align="right"/>
+<img alt="Night Coding" width="300px" src="./assets/Impact_compited.gif" style="margin-top:-100px" align="right"/>
 
 ## 📌 Имею навыки работы с: 
 
@@ -26,6 +26,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows-XP)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 
+______________________
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -36,6 +38,6 @@
 
 ### 🤝🏻 &nbsp;Связь со мной:
 
-<p align="center">
+<p align="left">
 <a href="https://career.habr.com/kirilll31"><img src="https://img.shields.io/badge/-habr.com-3423A6?style=flat&logo=habr&logoColor=white"/></a>
 </p>
