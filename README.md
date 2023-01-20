@@ -9,9 +9,10 @@
  ⛸️ &nbsp;Люблю кататься на коньках.\
  🎶 &nbsp;При этом всегда слушаю музыку под настроение, от электроники до классики.
 
-<img alt="Night Coding" width="300px" src="./assets/Impact_compited.gif" style="margin-top:-100px" align="right"/>
+<img alt="Night Coding" width="300px" src="./assets/hears.gif" style="margin-top:-100px" align="right"/>
 
 ## 📌 Имею навыки работы с: 
+<!--TO-DO Написать, что планирую изучать еще, redux, php, typescript, python, ruby -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
