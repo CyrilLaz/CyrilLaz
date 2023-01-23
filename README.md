@@ -1,18 +1,19 @@
-## Здравствуй, случайный и не случайный гость🤟
 ## Моё имя Кирилл.
-************
+
+### Жизнь есть учеба, оченка за которую выбьется на камне ©
  🎓 &nbsp;Учусь в ЯПрактикуме на курсе веб-разработчика.\
  🛠️ &nbsp;Мне нравится создавать, то что может быть полезным для людей.\
  👨‍💻 &nbsp;Люблю разбираться в полезных и не очень программах.\
  🌐 &nbsp;Ищу ответы на все вопросы в интернете.\
- 📚 &nbsp;В свободное время читаю художественную литературу.\
+ 📚 &nbsp;Читаю художественную литературу.\
  ⛸️ &nbsp;Люблю кататься на коньках.\
  🎶 &nbsp;При этом всегда слушаю музыку под настроение, от электроники до классики.
 
-<img alt="Night Coding" width="300px" src="./assets/hears.gif" style="margin-top:-100px" align="right"/>
 
-## 📌 Имею навыки работы с: 
-<!--TO-DO Написать, что планирую изучать еще, redux, php, typescript, python, ruby -->
+
+## 📌 &nbsp;Имею навыки работы с: 
+
+<img alt="Coding with music" width="300px" src="./assets/hears.gif" align="right"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -27,9 +28,17 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows-XP)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 
-______________________
+## 🔨 &nbsp;Хочу научиться работать с:
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=Go)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+**********
+
+## ⚙️ &nbsp;Моя статистика:
 
 <p align="center">
 <a href="https://github.com/CyrilLaz">
