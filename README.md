@@ -7,7 +7,7 @@
 
 ## 📌 &nbsp;Имею навыки работы с: 
 
-<img alt="Coding with music" width="300px" src="./assets/hears.gif" align="right"/>
+<img alt="Coding with music" width="280px" src="./assets/hears.gif" align="right"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
